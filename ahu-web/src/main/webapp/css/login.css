@@ -1,0 +1,23 @@
+.heading{
+	text-align:center;
+	margin-top:50px;
+}
+body{
+	background:#eee;	
+}
+.container{
+	width:385px;
+	margin-top:50px;
+	
+}
+.form-control{
+	width:350px;
+}
+.btn{
+	width:70px;
+}
+#btn-regist{
+	margin-left:50px;
+}
+	
+
