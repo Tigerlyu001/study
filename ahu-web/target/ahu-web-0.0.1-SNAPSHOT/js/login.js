@@ -8,7 +8,7 @@
 	 			if(result.status==200){	
 	 				location.href="/index.html?t="+Math.random();
 	 			}else{
-	 				console.log("xxx");
+	 				
 	 				alert("账号密码错误！")
 	 			}
 	 		})

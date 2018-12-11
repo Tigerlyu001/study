@@ -3,12 +3,12 @@
 	 				username:$("#username").val(),
 	 				password:$("#password").val()
 	 		};
-	 		var url = "/ahu-web/service/user/doLogin";
+	 		var url = "/service/user/doLogin";
 	 		$.post(url,params,function(result){
 	 			if(result.status==200){	
-	 				location.href="/ahu-web/index.html?t="+Math.random();
+	 				location.href="/index.html?t="+Math.random();
 	 			}else{
-	 				console.log("xxx");
+	 				
 	 				alert("账号密码错误！")
 	 			}
 	 		})

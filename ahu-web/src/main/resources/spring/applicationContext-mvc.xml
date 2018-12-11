@@ -42,14 +42,13 @@
 		exclude-mapping*    不拦截某些特点的请求路径
 		(bean | ref))       拦截器的处理类
 	  -->
-<!-- 	<mvc:interceptors>
+ 	<mvc:interceptors>
 		<mvc:interceptor>
-			<mvc:mapping path="/cart/**"/>
-			<mvc:mapping path="/order/**"/>
-			<bean class="com.jt.web.intercept.UserInterceptor"/>
+			<mvc:mapping path="/index.html"/>
+			<bean class="com.ahu.web.intercept.UserInterceptor"/>
 		</mvc:interceptor>
 	</mvc:interceptors>
-	 -->
+	 
 	
 	
 	

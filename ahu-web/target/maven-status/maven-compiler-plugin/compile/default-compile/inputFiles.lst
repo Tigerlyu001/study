@@ -2,4 +2,5 @@ C:\java\workspace\ahu-web\src\main\java\com\ahu\web\controller\IndexController.j
 C:\java\workspace\ahu-web\src\main\java\com\ahu\web\mapper\UserMapper.java
 C:\java\workspace\ahu-web\src\main\java\com\ahu\web\controller\UserController.java
 C:\java\workspace\ahu-web\src\main\java\com\ahu\web\service\UserServiceImpl.java
+C:\java\workspace\ahu-web\src\main\java\com\ahu\web\intercept\UserInterceptor.java
 C:\java\workspace\ahu-web\src\main\java\com\ahu\web\service\UserService.java
